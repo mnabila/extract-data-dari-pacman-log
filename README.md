@@ -1,0 +1,1 @@
+# extract-data-dari-pacman-log
